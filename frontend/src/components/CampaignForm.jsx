@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Select from 'react-select';
-import { createCampaign, updateCampaign } from '../services/api';
+import { createCampaign, updateCampaign } from '../services/Api';
 
 const TOWNS = ["Warsaw", "Krakow", "Gdansk", "Wroclaw", "Poznan"];
 

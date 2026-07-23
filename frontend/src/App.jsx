@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { getCampaigns, deleteCampaign } from './services/api';
+import { getCampaigns, deleteCampaign } from './services/Api';
 import CampaignList from './components/CampaignList.jsx';
 import CampaignForm from './components/CampaignForm';
 
