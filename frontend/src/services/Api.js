@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8080/api/campaigns';
+const API_URL = 'https://campaign-manager-vbvf.onrender.com/api/campaigns';
 
 const ACCOUNT_ID = 1;
 
